@@ -38,13 +38,12 @@ h3, h2 {
 #back {
   font-size: 18px;
 }
-/* Not XS screen */
-@media (min-width:768px){
-	#collapsable-nav {
-		visibility: hidden;
-	}
-}
 
+@media (min-width: 768px) {
+    #collapsable-nav {
+        visibility: hidden;
+    }
+}
 /* XS screen */
 @media (max-width:767px){
 	.navbar-brand {
