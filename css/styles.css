@@ -1,3 +1,15 @@
+
+.navbar-nav > li {
+    width: 100%; 
+    text-align: center; 
+}
+
+
+.navbar-nav > li > a {
+    display: block; 
+    padding: 10px; 
+}
+
 body {
   font-size: 24px;
   color: #000;
